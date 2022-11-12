@@ -482,6 +482,7 @@ a:focus {
 }
 
 .about-image img {
+  padding-top: 100px;
   display: block;
   margin: 0 auto;
 }
@@ -715,3 +716,5 @@ a:focus {
     margin-left: 0;
   }
 }
+
+/* quiz */

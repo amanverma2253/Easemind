@@ -499,6 +499,10 @@ mark {
 
 .img-fluid {
     max-width: 100%;
+    margin-top: 30%;
+    margin-bottom: 7%;
+    /* margin-bottom: 50px; */
+   /* rotate: 1deg; */
     height: auto
 }
 
