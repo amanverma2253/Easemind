@@ -105,7 +105,7 @@ strong {
 }
 
 
-/*  BLOCKQUOTES */
+
 .quote {
   position: relative;
   margin: 0;
@@ -133,7 +133,6 @@ blockquote {
 }
 
 
-/* BUTTON */
 .custom-btn {
   background: transparent;
   border: 2px solid var(--dark-color);
@@ -344,9 +343,6 @@ a:focus {
   top: 2em;
 }
 
-
-
-
 .project {
   background: var(--project-bg);
 }
@@ -449,12 +445,6 @@ a:focus {
   margin-right: 1em;
 }
 
-
-
-/*---------------------------------------
-      ABOUT            
-  -----------------------------------------*/
-
 .about {
   position: relative;
   overflow: hidden;
@@ -465,12 +455,6 @@ a:focus {
   display: block;
   margin: 0 auto;
 }
-
-
-
-/*---------------------------------------
-      BLOG            
-  -----------------------------------------*/
 
 .blog-header {
   border-radius: var(--border-radius-small);
@@ -514,12 +498,6 @@ a:focus {
   font-size: 18px;
 }
 
-
-
-/*---------------------------------------
-     CONTACT              
-  -----------------------------------------*/
-
 .newsletter-form .form-control,
 .contact-form .form-control {
   box-shadow: none;
@@ -544,11 +522,6 @@ a:focus {
   background: var(--secondary-color);
 }
 
-
-
-/*---------------------------------------
-     FOOTER              
-  -----------------------------------------*/
 
 .site-footer {
   background: var(--dark-color);
@@ -580,11 +553,6 @@ a:focus {
   margin-top: 5.3em;
 }
 
-
-
-/*---------------------------------------
-     SOCIAL ICON              
-  -----------------------------------------*/
 
 .social-icon {
   position: relative;
@@ -696,4 +664,3 @@ a:focus {
   }
 }
 
-/* quiz */
