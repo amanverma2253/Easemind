@@ -159,8 +159,6 @@ body {
 }
 
 
-/** Question Card */
-
 .questions-card__progress-wrapper {
     display: flex;
     flex-wrap: wrap;
@@ -293,9 +291,6 @@ body {
 .questions-card.time-over .question-card-buttons {
     justify-content: flex-end;
 }
-
-
-/** Result Card */
 .result-card {
     display: flex;
     justify-content: center;
