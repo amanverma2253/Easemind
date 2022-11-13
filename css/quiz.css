@@ -306,8 +306,6 @@ body {
     justify-content: flex-end;
 }
 
-
-/** Result Card */
 .result-card {
     display: flex;
     justify-content: center;
